@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.jackson.db.dao.UrlDao">
+    <resultMap id="urlResultMap" type="Url">
+        <result property="id" column="id"/>
+        <result property="url" column="url"/>
+        <result property="state" column="state"/>
+        <result property="priority" column="priority"/>
+        <result property="parserClassName" column="parser_class_name"/>
+        <result property="createTime" column="create_time"/>
+        <result property="requestState" column="request_state"/>
+        <result property="protocolState" column="protocol_state"/>
+        <result property="requestConfigClassName" column="request_config_class_name"/>
+    </resultMap>
+
+    <!-- 需求：获取state为0 priority 最小的url -->
+    <select id="findUrls" resultMap="urlResultMap">
+        SELECT * FROM ${tableName} WHERE `state` = 0 ORDER BY `priority` ASC LIMIT 0,#{size}
+    </select>
+
+<!--    <insert id="insertUrls">
+        INSERT IGNORE ${tableName}
+        (`url`,`state`,`priority`,`parser_class_name`,`create_time`,`request_state`,`protocol_state`,`request_config_class_name`)VALUES
+        <foreach collection="list" index="index" item="i" separator=",">
+            (#{i.url},#{i.state},#{i.priority},#{i.parserClassName},#{i.createTime},#{i.requestState},#{i.protocolState},#{i.requestConfigClassName})
+        </foreach>
+    </insert>-->
+
+        <insert id="insertUrls" parameterType="java.util.List">
+            insert into ${tableName}
+            (`url`,`state`,`priority`,`parser_class_name`,`create_time`)
+            <foreach collection="list" index="index" item="i" separator="UNION ">
+                SELECT #{i.url},#{i.state},#{i.priority},#{i.parserClassName},#{i.createTime}
+                FROM DUAL
+                WHERE NOT EXISTS(
+                SELECT `id`
+                FROM ${tableName}
+                WHERE `url`=#{i.url})
+            </foreach>
+        </insert>
+
+    <update id="updateUrlsToComplete">
+        UPDATE ${tableName} SET `state` = 2 WHERE `id` IN (
+        <foreach collection="list" index="index" item="item" separator=",">
+            #{item.id}
+        </foreach>)
+
+    </update>
+
+    <update id="updateUrlsToFree">
+        UPDATE ${tableName} SET `state` = 0 WHERE `id` IN(
+        <foreach collection="list" index="index" item="item" separator=",">
+            #{item.id}
+        </foreach>)
+    </update>
+
+    <update id="updateUrlsToTakenOut">
+        UPDATE ${tableName} SET `state` = 1 WHERE `id` IN(
+        <foreach collection="list" index="index" item="item" separator=",">
+            #{item.id}
+        </foreach>)
+    </update>
+
+
+    <update id="setTakeState2Free">
+        UPDATE ${tableName} SET `state` = 0 WHERE `state` = 1
+    </update>
+
+<!--    <update id="createTable">
+        CREATE TABLE IF NOT EXISTS ${tableName} (
+      `id` BIGINT(20) UNSIGNED NOT NULL AUTO_INCREMENT,
+      `url` VARCHAR(100) NOT NULL,
+      `state` TINYINT(1) DEFAULT '0',
+      `parser_class_name` VARCHAR(50) DEFAULT NULL,
+      `priority` SMALLINT(6) DEFAULT NULL,
+      `create_time` TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
+      PRIMARY KEY (`id`),
+      UNIQUE KEY `url` (`url`)
+      ) ENGINE=INNODB AUTO_INCREMENT=0 DEFAULT CHARSET=utf8
+      </update> -->
+
+       <update id="createTable">
+       CREATE TABLE IF NOT EXISTS ${tableName} (
+      `id` BIGINT(20) UNSIGNED NOT NULL AUTO_INCREMENT,
+      `url` VARCHAR(100) NOT NULL,
+      `state` TINYINT(1) DEFAULT '0',
+      `parser_class_name` VARCHAR(50) DEFAULT NULL,
+      `priority` SMALLINT(6) DEFAULT NULL,
+      `create_time` TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
+      `request_state` TINYINT(1) DEFAULT '0',
+      `protocol_state` TINYINT(1) DEFAULT '0',
+      `request_config_class_name` VARCHAR(50) DEFAULT NULL,
+      PRIMARY KEY (`id`),
+      UNIQUE KEY `url` (`url`)
+      ) ENGINE=INNODB AUTO_INCREMENT=0 DEFAULT CHARSET=utf8
+    </update>
+
+</mapper>

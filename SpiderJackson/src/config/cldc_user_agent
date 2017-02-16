@@ -1,0 +1,448 @@
+MOT-C550/0A.10.20R MIB/2.2 Profile/MIDP-1.0 Configuration/CLDC-1.0
+MOT-C550/0A.10.25R MIB/2.2 Profile/MIDP-1.0 Configuration/CLDC-1.0
+MOT-E380/0A.03.36R MIB/2.2 Profile/MIDP-1.0 Configuration/CLDC-1.0
+MOT-E380/0A.03.60R MIB/2.2 Profile/MIDP-1.0 Configuration/CLDC-1.0
+MOT-C380/0B.D1.1AR MIB/2.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.0
+MOT-C380/0B.D2.23R MIB/2.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.0
+MOT-C650/0B.D1.08R MIB/2.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.0
+MOT-C650/0B.D1.09R MIB/2.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.0
+MOT-C650/0B.D1.0BR MIB/2.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.0
+MOT-C650/0B.D1.1AR MIB/2.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.0
+MOT-C650/0B.D1.1BR MIB/2.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.0
+MOT-C650/0B.D2.23R MIB/2.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.0
+MOT-C650/0B.D2.2FR MIB/2.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.0
+MOT-E375/0E.23.0ER MIB/2.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.0
+MOT-E375/0E.23.10R MIB/2.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.0
+MOT-E375/0E.23.12R MIB/2.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.0
+MOT-E398/0E.20.36R MIB/2.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.0
+MOT-E398/0E.20.38R MIB/2.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.0
+MOT-E398/0E.20.39R MIB/2.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.0
+MOT-E398/0E.20.96R MIB/2.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.0
+MOT-E398/0E.20.99R MIB/2.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.0
+MOT-C975/80.2F.68. MIB/2.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.1
+MOT-C975/80.2F.68I MIB/2.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.1
+MOT-C975/80.2F.88I MIB/2.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.1
+MOT-E1000/80.3F.68I MIB/2.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.1
+MOT-E1000/80.3F.88I MIB/2.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.1
+MOT-A728/R505_G_00.02.A1R MIB/2.2 Profile/MIDP-2.0 Configuration/CLDC-1.0
+MOT-A728/R505_G_00.03.A1R MIB/2.2 Profile/MIDP-2.0 Configuration/CLDC-1.0
+MOT-A768/A768_G_00.B3.A1R MIB/2.2 Profile/MIDP-2.0 Configuration/CLDC-1.0
+MOT-A768/R503_G_00.15.A1R MIB/2.2 Profile/MIDP-2.0 Configuration/CLDC-1.0
+MOT-A768/R503_G_00.18.A2R MIB/2.2 Profile/MIDP-2.0 Configuration/CLDC-1.0
+MOT-E398/0E.20.99R MIB/2.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.0 UP.Link/1.1
+MOT-E398/R601 Profile/MIDP-1.0 Configuration/CLDC-1.0
+MOT-E398B/0E.20.95R MIB/2.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.0
+MOT-E680/R51_G_0F.38.A4R MIB/2.2 Profile/MIDP-2.0 Configuration/CLDC-1.1
+MOT-E680/R51_G_0F.42.A1P MIB/2.2 Profile/MIDP-2.0 Configuration/CLDC-1.1
+MOT-E680/R51_G_0F.48.A2P MIB/2.2 Profile/MIDP-2.0 Configuration/CLDC-1.1
+MOT-E680/R51_G_0F.51.A1P MIB/2.2 Profile/MIDP-2.0 Configuration/CLDC-1.1
+Profile/MIDP-2.0 Configuration/CLDC-1.1 Opera 7.50 [zh-cn]
+MOT-E680i/E680I_G_0D.C3.A8P Mozilla/4.0 (compatible; MSIE 6.0; Motorola; 1030) Profile/MIDP-2.0
+1229) Profile/MIDP-2.0 Configuration/CLDC-1.1 Opera 7.50 [zh-cn]
+MOT-T720/AS_G_05.08.52R MIB/2.0 Profile/MIDP-1.0 Configuration/CLDC-1.0
+MOT-T720/AS_G_05.08.71R MIB/2.0 Profile/MIDP-1.0 Configuration/CLDC-1.0
+MOT-T720/PMAS_G_05.41.59R MIB/2.0 Profile/MIDP-1.0 Configuration/CLDC-1.0
+MOT-V180/0B.D1.1AR MIB/2.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.0
+MOT-V220/0B.D1.1AR MIB/2.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.0
+MOT-V220/0B.D2.30R MIB/2.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.0
+MOT-V3/0E.40.3DR MIB/2.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.0
+MOT-V3/0E.40.64R MIB/2.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.0
+MOT-V3/0E.40.65R MIB/2.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.0
+MOT-V3/0E.40.79R MIB/2.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.0
+MOT-V3/0E.40.98R MIB/2.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.0
+MOT-V3/0E.40.9AR MIB/2.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.0
+MOT-V3/0E.40.9CR MIB/2.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.0
+MOT-V3/0E.40.9DR MIB/2.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.0
+MOT-V3/0E.40.9ER MIB/2.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.0
+MOT-V3/0E.41.C3R MIB/2.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.0
+MOT-V3/0E.42.07R MIB/2.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.0
+MOT-V3/0E.42.08R MIB/2.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.0
+MOT-V3/0E.42.0AR MIB/2.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.0
+MOT-V300/0B.09.29R MIB/2.2 Profile/MIDP-2.0 Configuration/CLDC-1.0
+MOT-V300/0B.09.38R MIB/2.2 Profile/MIDP-2.0 Configuration/CLDC-1.0
+MOT-V300/0B.09.4ER MIB/2.2 Profile/MIDP-2.0 Configuration/CLDC-1.0
+MOT-V303/0B.09.1CR MIB/2.2 Profile/MIDP-2.0 Configuration/CLDC-1.0
+MOT-V303/0B.09.29R MIB/2.2 Profile/MIDP-2.0 Configuration/CLDC-1.0
+MOT-V303/0B.09.38R MIB/2.2 Profile/MIDP-2.0 Configuration/CLDC-1.0
+MOT-V303/0B.09.4ER MIB/2.2 Profile/MIDP-2.0 Configuration/CLDC-1.0
+MOT-V360/08.B7.58R MIB/2.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.1
+MOT-V500/0B.09.1CR MIB/2.2 Profile/MIDP-2.0 Configuration/CLDC-1.0
+MOT-V500/0B.09.29R MIB/2.2 Profile/MIDP-2.0 Configuration/CLDC-1.0
+MOT-V500/0B.09.38R MIB/2.2 Profile/MIDP-2.0 Configuration/CLDC-1.0
+MOT-V500/0B.09.4ER MIB/2.2 Profile/MIDP-2.0 Configuration/CLDC-1.0
+MOT-V501/0B.09.38R MIB/2.2 Profile/MIDP-2.0 Configuration/CLDC-1.0
+MOT-V501/0B.09.4AR MIB/2.2 Profile/MIDP-2.0 Configuration/CLDC-1.0
+MOT-V501/0B.09.4ER MIB/2.2 Profile/MIDP-2.0 Configuration/CLDC-1.0
+MOT-V547/08.18.34R MIB/2.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.0
+MOT-V600/0B.08.A5R MIB/2.2 Profile/MIDP-2.0 Configuration/CLDC-1.0
+MOT-V600/0B.09.1CR MIB/2.2 Profile/MIDP-2.0 Configuration/CLDC-1.0
+MOT-V600/0B.09.1DR MIB/2.2 Profile/MIDP-2.0 Configuration/CLDC-1.0
+MOT-V600/0B.09.29R MIB/2.2 Profile/MIDP-2.0 Configuration/CLDC-1.0
+MOT-V600/0B.09.2FR MIB/2.2 Profile/MIDP-2.0 Configuration/CLDC-1.0
+MOT-V600/0B.09.38R MIB/2.2 Profile/MIDP-2.0 Configuration/CLDC-1.0
+MOT-V600/0B.09.3AR MIB/2.2 Profile/MIDP-2.0 Configuration/CLDC-1.0
+MOT-V600/0B.09.45R MIB/2.2 Profile/MIDP-2.0 Configuration/CLDC-1.0
+MOT-V600/0B.09.4AR MIB/2.2 Profile/MIDP-2.0 Configuration/CLDC-1.0
+MOT-V600/0B.09.4ER MIB/2.2 Profile/MIDP-2.0 Configuration/CLDC-1.0
+MOT-V600/0B.09.58R MIB/2.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.0
+MOT-V600/0B.09.72R MIB/2.2 Profile/MIDP-2.0 Configuration/CLDC-1.0
+MOT-V600i/0E.65.23R MIB/2.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.0
+MOT-V600i/0E.66.12R MIB/2.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.0
+MOT-V80/0E.03.2CR MIB/2.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.0
+MOT-V80/0E.03.34R MIB/2.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.0
+Mozilla/4.0 (compatible; MSIE 5.0; Series90/1.1 Nokia7710/c2.08.4 Profile/MIDP-2.0 Configuration/CLDC-1.0)
+Mozilla/4.0 (compatible; MSIE 5.0; Series90/1.1 Nokia7710/n3.54.0 Profile/MIDP-2.0 Configuration/CLDC-1.0)
+Mozilla/4.0 (compatible; MSIE 6.0; Linux; Motorola A780; 781) MOT-A780/R52_G_0D.50.A7P Profile/MIDP-2.0
+Mozilla/4.0 (compatible; MSIE 6.0; Linux; Motorola A780; 781) MOT-A780/R52_G_0D.50.AFP Profile/MIDP-2.0
+Nokia2650/1.0 (5.17) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia2650/1.0 (5.48) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia2650/1.0 (6.06) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia2650/1.0 (6.18) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia3100/1.0 (03.10) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia3100/1.0 (03.51) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia3100/1.0 (04.01) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia3100/1.0 (04.01) Profile/MIDP-1.0 Configuration/CLDC-1.0 UP.Link/6.3.0.0.0
+Nokia3100/1.0 (05.02) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia3100/1.0 (05.03) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia3100/1.0 (05.30) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia3100/1.0 (05.54) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia3100/1.0 (05.66) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia3100/1.0 (05.69) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia3100/1.0 (05.91) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia3100/1.0 (06.01) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia3100/1.0 (06.11) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia3108/1.0 (03.01) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia3108/1.0 (04.00) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia3108/1.0 (04.00) Profile/MIDP-1.0 Configuration/CLDC-1.0 UP.Link/6.3.0.0.0
+Nokia3108/1.0 (05.08) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia3108/1.0 (05.30) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia3120/1.0 (05.30) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia3120/1.0 (05.54) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia3120/1.0 (05.91) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia3120/1.0 (06.01) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia3120/1.0 (06.11) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia3200/1.0 () Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia3200/1.0 (4.16) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia3200/1.0 (4.17) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia3200/1.0 (4.18) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia3200/1.0 (5.29) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia3220/2.0 (03.30) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia3220/2.0 (03.35) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia3220/2.0 (03.60) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia3220/2.0 (04.30) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia3220/2.0 (04.50) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia3220/2.0 (04.54) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia3220/2.0 (04.80) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia3220/2.0 (04.94) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia3220/2.0 (05.10) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia3300/1.0 (4.05) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia3300/1.0 (4.07) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia3300/1.0 (4.25) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia3300/1.0 (4.62) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia3300/1.0 (5.20) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia5140/2.0 (3.10) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia6020/2.0 (03.52) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia6020/2.0 (03.53) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia6020/2.0 (03.92) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia6020/2.0 (04.10) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia6021/2.0 (03.83) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia6030/2.0 (y3.30) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia6030/2.0 (y3.31) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia6030/2.0 (y3.32) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia6030/2.0 (y3.41) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia6030/2.0 (y3.43) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia6060/2.0 (k3.62) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia6100/1.0 (03.22) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia6100/1.0 (04.03) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia6100/1.0 (04.70) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia6100/1.0 (05.16) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia6100/1.0 (05.51) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia6100/1.0 (05.80) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia6100/1.0 (06.01) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia6100/1.0 (06.20) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia6101/2.0 (03.35) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia6102/2.0 (03.38) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia6108/1.0 (03.20) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia6108/1.0 (04.02) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia6108/1.0 (05.04) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia6108/1.0 (05.30) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia6108/1.0 (05.30) Profile/MIDP-1.0 Configuration/CLDC-1.0 UP.Link/6.3.0.0.0
+Nokia6170/2.0 (03.22) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia6170/2.0 (03.24) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia6220/2.0 (5.15) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia6220/2.0 (6.29) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia6220/2.0 (6.34) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia6220/2.0 Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia6230/2.0 (03.15) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia6230/2.0 (04.28) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia6230/2.0 (04.43) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia6230/2.0 (05.24) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia6230/2.0 (05.35) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia6230/2.0 (05.50) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia6230i/2.0 (03.25) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia6230i/2.0 (03.30) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia6230i/2.0 (03.40) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia6610/1.0 (3.09) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia6610/1.0 (4.18) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia6610/1.0 (4.28) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia6610/1.0 (4.74) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia6610/1.0 (5.52) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia6610/1.0 (5.63) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia6610/1.0 (5.65) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia6610I/1.0 (3.10) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia6610I/1.0 (4.10) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia6610I/1.0 (4.20) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia6820/2.0 (3.21) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia6820/2.0 (3.70) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia6820/2.0 (3.71) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia6820/2.0 (4.22) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia6820/2.0 (4.25) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia6820/2.0 (4.83) Profile/MIDP-1.0 Configuration/CLDC-1.0 (compatible; Googlebot-Mobile/2.1;
+Nokia6820/2.0 (5.30) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia7200/2.0 (3.100) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia7200/2.0 (3.110) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia7200/2.0 (4.26) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia7210/1.0 (3.08) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia7210/1.0 (3.09) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia7210/1.0 (4.18) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia7210/1.0 (4.28) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia7210/1.0 (4.74) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia7210/1.0 (5.52) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia7210/1.0 (5.62) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia7210/1.0 (5.63) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia7210/1.0 (5.65) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia7250/1.0 (3.12) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia7250/1.0 (3.62) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia7250I/1.0 (3.22) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia7250I/1.0 (4.22) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia7250I/1.0 (4.63) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia7250I/1.0 (5.30) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia7260/2.0 (03.31) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia7260/2.0 (03.36) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia7260/2.0 (04.31) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia7260/2.0 (04.81) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia7260/2.0 (04.91) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia7270/2.0 (03.22) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia7270/2.0 (03.22) Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Link/5.1.2.6
+Nokia7270/2.0 (03.24) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia7600/2.0 (04.05) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia7600/2.0 (04.07) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia8800/2.0 (03.28) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia8800/2.0 (03.60) Profile/MIDP-2.0 Configuration/CLDC-1.1
+NokiaN70-1/2.0539.1.2 Series60/2.8 Profile/MIDP-2.0 Configuration/CLDC-1.1
+NokiaN70/3.0544.5.1 Series60/2.8 Profile/MIDP-2.0 Configuration/CLDC-1.1
+NokiaN90-1/2.0530.3.5/SN356633000161206 Series60/2.8 Profile/MIDP-2.0 Configuration/CLDC-1.1
+NokiaN90-1/3.0535.4.3 Series60/2.8 Profile/MIDP-2.0 Configuration/CLDC-1.1
+Panasonic-A500/R1 Profile/MIDP-1.0 Configuration/CLDC-1.0
+Panasonic-X200P/RP1 Profile/MIDP-1.0 Configuration/CLDC-1.0
+Panasonic-X400P/RP1 Profile/MIDP-1.0 Configuration/CLDC-1.0
+SonyEricssonJ300c/R2AT SEMC-Browser/4.0.3 Profile/MIDP-2.0 Configuration/CLDC-1.1
+SonyEricssonJ300c/R2AZ SEMC-Browser/4.0.3 Profile/MIDP-2.0 Configuration/CLDC-1.1
+SonyEricssonK300c/R2AJ SEMC-Browser/4.0.3 Profile/MIDP-2.0 Configuration/CLDC-1.1
+SonyEricssonK300c/R2AL SEMC-Browser/4.0.3 Profile/MIDP-2.0 Configuration/CLDC-1.1
+SonyEricssonK300c/R2BA SEMC-Browser/4.0.3 Profile/MIDP-2.0 Configuration/CLDC-1.1
+SonyEricssonK500c/R2AA SEMC-Browser/4.0.2 Profile/MIDP-2.0 Configuration/CLDC-1.1
+SonyEricssonK500c/R2AE SEMC-Browser/4.0.3 Profile/MIDP-2.0 Configuration/CLDC-1.1
+SonyEricssonK500c/R2L SEMC-Browser/4.0.1 Profile/MIDP-2.0 Configuration/CLDC-1.1
+SonyEricssonK500i/R2AA SEMC-Browser/4.0.2 Profile/MIDP-2.0 Configuration/CLDC-1.1
+SonyEricssonK500i/R2AE SEMC-Browser/4.0.3 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Link/1.1
+SonyEricssonK506c/R2AA SEMC-Browser/4.0.2 Profile/MIDP-2.0 Configuration/CLDC-1.1
+SonyEricssonK506c/R2AT SEMC-Browser/4.0.3 Profile/MIDP-2.0 Configuration/CLDC-1.1
+SonyEricssonK508c/R2AA SEMC-Browser/4.0.2 Profile/MIDP-2.0 Configuration/CLDC-1.1
+SonyEricssonK508c/R2AE SEMC-Browser/4.0.3 Profile/MIDP-2.0 Configuration/CLDC-1.1
+SonyEricssonK508c/R2AT SEMC-Browser/4.0.3 Profile/MIDP-2.0 Configuration/CLDC-1.1
+SonyEricssonK508i/R2AE SEMC-Browser/4.0.3 Profile/MIDP-2.0 Configuration/CLDC-1.1
+SonyEricssonK700c/R2AA SEMC-Browser/4.0.2 Profile/MIDP-2.0 Configuration/CLDC-1.1
+SonyEricssonK700c/R2AE SEMC-Browser/4.0.3 Profile/MIDP-2.0 Configuration/CLDC-1.1
+SonyEricssonK700c/R2AY SEMC-Browser/4.0.3 Profile/MIDP-2.0 Configuration/CLDC-1.1
+SonyEricssonK700c/R2L SEMC-Browser/4.0.1 Profile/MIDP-2.0 Configuration/CLDC-1.1
+SonyEricssonK700i/R2AE SEMC-Browser/4.0.3 Profile/MIDP-2.0 Configuration/CLDC-1.1
+SonyEricssonK700i/R2AL SEMC-Browser/4.0.3 Profile/MIDP-2.0 Configuration/CLDC-1.1
+SonyEricssonK700i/R2AY SEMC-Browser/4.0.3 Profile/MIDP-2.0 Configuration/CLDC-1.1
+SonyEricssonK700i/R2L SEMC-Browser/4.0.1 Profile/MIDP-2.0 Configuration/CLDC-1.1
+SonyEricssonK750c/R1C Browser/SEMC-Browser/4.2 Profile/MIDP-2.0 Configuration/CLDC-1.1
+SonyEricssonK750c/R1J Browser/SEMC-Browser/4.2 Profile/MIDP-2.0 Configuration/CLDC-1.1
+SonyEricssonK750c/R1L Browser/SEMC-Browser/4.2 Profile/MIDP-2.0 Configuration/CLDC-1.1
+SonyEricssonK750c/R1L/SN356551004777951 Browser/SEMC-Browser/4.2 Profile/MIDP-2.0
+SonyEricssonK750c/R1L/SN356552009010810 Browser/SEMC-Browser/4.2 Profile/MIDP-2.0
+SonyEricssonK750i/R1J Browser/SEMC-Browser/4.2 Profile/MIDP-2.0 Configuration/CLDC-1.1
+SonyEricssonK750i/R1J/SN356551006090544 Browser/SEMC-Browser/4.2 Profile/MIDP-2.0
+SonyEricssonK750i/R1L/SN356552002939080 Browser/SEMC-Browser/4.2 Profile/MIDP-2.0
+SonyEricssonK758c/R1L Browser/SEMC-Browser/4.2 Profile/MIDP-2.0 Configuration/CLDC-1.1
+SonyEricssonP800/R101 Profile/MIDP-1.0 Configuration/CLDC-1.0
+SonyEricssonS700c/R3B SEMC-Browser/4.0.1 Profile/MIDP-2.0 Configuration/CLDC-1.1
+SonyEricssonS700c/R3F SEMC-Browser/4.0.2 Profile/MIDP-2.0 Configuration/CLDC-1.1
+SonyEricssonS700c/R3G SEMC-Browser/4.0.2 Profile/MIDP-2.0 Configuration/CLDC-1.1
+SonyEricssonS700c/R3K SEMC-Browser/4.0.3 Profile/MIDP-2.0 Configuration/CLDC-1.1
+SonyEricssonS700c/R3M SEMC-Browser/4.0.3 Profile/MIDP-2.0 Configuration/CLDC-1.1
+SonyEricssonS700i/R3B SEMC-Browser/4.0.1 Profile/MIDP-2.0 Configuration/CLDC-1.1
+SonyEricssonK700c/R2CA SEMC-Browser/4.0.3 Profile/MIDP-2.0 Configuration/CLDC-1.1
+SonyEricssonK500c/R2AT SEMC-Browser/4.0.3 Profile/MIDP-2.0 Configuration/CLDC-1.1
+SonyEricssonJ300c/R2BA SEMC-Browser/4.0.3 Profile/MIDP-2.0 Configuration/CLDC-1.1
+SonyEricssonW800i/R1BD001/SEMC-Browser/4.2 Profile/MIDP-2.0 Configuration/CLDC-1.1
+SonyEricssonW800c/R1BC Browser/SEMC-Browser/4.2 Profile/MIDP-2.0 Configuration/CLDC-1.1
+SonyEricssonW800c/R1AA Browser/SEMC-Browser/4.2 Profile/MIDP-2.0 Configuration/CLDC-1.1
+SonyEricssonW700c/R1DB Browser/SEMC-Browser/4.2 Profile/MIDP-2.0 Configuration/CLDC-1.1
+SonyEricssonW700c/R1CA Browser/SEMC-Browser/4.2 Profile/MIDP-2.0 Configuration/CLDC-1.1
+SonyEricssonK750c/R1DB Browser/SEMC-Browser/4.2 Profile/MIDP-2.0 Configuration/CLDC-1.1
+SonyEricssonK750c/R1CA Browser/SEMC-Browser/4.2 Profile/MIDP-2.0 Configuration/CLDC-1.1
+SonyEricssonK750c/R1BC Browser/SEMC-Browser/4.2 Profile/MIDP-2.0 Configuration/CLDC-1.1
+SonyEricssonT610/R401 Profile/MIDP-1.0 Configuration/CLDC-1.0
+SonyEricssonT618/R101 Profile/MIDP-1.0 Configuration/CLDC-1.0
+SonyEricssonT618/R201 Profile/MIDP-1.0 Configuration/CLDC-1.0
+SonyEricssonT618/R301 Profile/MIDP-1.0 Configuration/CLDC-1.0
+SonyEricssonT618/R401 Profile/MIDP-1.0 Configuration/CLDC-1.0
+SonyEricssonT618/R501 Profile/MIDP-1.0 Configuration/CLDC-1.0
+SonyEricssonT618/R601 Profile/MIDP-1.0 Configuration/CLDC-1.0
+SonyEricssonT628/R201 Profile/MIDP-1.0 Configuration/CLDC-1.0
+SonyEricssonT628/R401 Profile/MIDP-1.0 Configuration/CLDC-1.0
+SonyEricssonT628/R501 Profile/MIDP-1.0 Configuration/CLDC-1.0
+SonyEricssonT628/R601 Profile/MIDP-1.0 Configuration/CLDC-1.0
+SonyEricssonT630/R401 Profile/MIDP-1.0 Configuration/CLDC-1.0
+SonyEricssonT630/R401 Profile/MIDP-1.0 Configuration/CLDC-1.0 UP.Link/1.1
+SonyEricssonW550c/R4AB Browser/NetFront/3.3 Profile/MIDP-2.0 Configuration/CLDC-1.1
+SonyEricssonW800c/R1L Browser/SEMC-Browser/4.2 Profile/MIDP-2.0 Configuration/CLDC-1.1
+SonyEricssonW800c/R1N/SN356828009494240 Browser/SEMC-Browser/4.2 Profile/MIDP-2.0
+SonyEricssonZ608/R401 Profile/MIDP-1.0 Configuration/CLDC-1.0
+Toplux AG280 Profile/MIDP-1.0 Configuration/CLDC-1.0
+MOT-L7/NA.ACR_RB MIB/2.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.1
+MOT-L7/08.D5.09R MIB/2.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.1
+MOT-L7/08.B7.ACR MIB/2.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.1
+MOT-L6i/0A.64.19R MIB/2.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.1
+MOT-L6/0A.60.1BR MIB/2.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.1
+MOT-V300/0B.09.19R MIB/2.2 Profile/MIDP-2.0 Configuration/CLDC-1.0
+SAMSUNG-C5212/C5212XDIK1 NetFront/3.4 Profile/MIDP-2.0 Configuration/CLDC-1.1
+SonyEricssonK800c/R8BF Browser/NetFront/3.3 Profile/MIDP-2.0 Configuration/CLDC-1.1
+SonyEricssonK530i/R6BA Browser/NetFront/3.3 Profile/MIDP-2.0 Configuration/CLDC-1.1
+SonyEricssonK530c/R8BA Browser/NetFront/3.3 Profile/MIDP-2.0 Configuration/CLDC-1.1
+SonyEricssonK510c/R4EA Browser/NetFront/3.3 Profile/MIDP-2.0 Configuration/CLDC-1.1
+Opera/9.80 (J2ME/MIDP; Opera Mini/9.80 (S60; SymbOS; Opera Mobi/23.348; U; en) Presto/2.5.25 Version/10.54
+Opera/9.80 (J2ME/MIDP; Opera Mini/9.80 (S60; SymbOS; Opera Mobi/23.334; U; id) Presto/2.5.25 Version/10.54
+Opera/9.80 (J2ME/MIDP; Opera Mini/9.80 (J2ME/23.377; U; en) Presto/2.5.25 Version/10.54
+Opera/9.80 (J2ME/MIDP; Opera Mini/9.80 (J2ME/22.478; U; en) Presto/2.5.25 Version/10.54
+Opera/9.80 (J2ME/MIDP; Opera Mini/6.5.26955/27.1407; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/6.24288/25.729; U; en) Presto/2.5.25 Version/10.54
+Opera/9.80 (J2ME/MIDP; Opera Mini/6.24093/26.1305; U; en) Presto/2.8.119 Version/10.54
+Opera/9.80 (J2ME/MIDP; Opera Mini/6.24093/25.657; U; id) Presto/2.5.25 Version/10.54
+Opera/9.80 (J2ME/MIDP; Opera Mini/6.1.25378/25.677; U; th) Presto/2.5.25 Version/10.54
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.1.22296/22.87; U; fr) Presto/2.5.25
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.1.22296/22.87; U; en) Presto/2.5.25
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.1.22296/22.478; U; fr) Presto/2.5.25 Version/10.54
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.1.22296/22.387; U; fr) Presto/2.5.25 Version/10.54
+Opera/9.50 (J2ME/MIDP; Opera Mini/5.1.21965/20.2513; U; en)
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.1.21415/22.387; U; en) Presto/2.5.25 Version/10.54
+Opera/9.80(J2ME/MIDP; Opera Mini/5.1.21214/22.414; U; en) Presto/2.5.25 Version/10.54
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.1.21214/22.414; U; ro) Presto/2.5.25 Version/10.54
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.1.21214/22.387; U; id) Presto/2.5.25 Version/10.54
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.1.21051/27.1573; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.1.21051/23.377; U; id) Presto/2.5.25 Version/10.54
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.1.21051/20.2477; U; en) Presto/2.5.25
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.0.3521/886; U; en) Presto/2.4.15
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.0.3521/22.414; U; en) Presto/2.5.25 Version/10.54
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.0.3521/18.684; U; en) Presto/2.4.15
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.0.20873/19.916; U; en) Presto/2.5.25
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.0.19693Mod.by.Handler/23.390; U; en) Presto/2.5.25 Version/10.54
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.0.19693Mod.by.Handler/18.794; U; id) Presto/2.4.15
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.0.19693/870; U; en) Presto/2.4.15
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.0.19683/1278; U; ko) Presto/2.2.0
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.0.18741Mod.by.Handler/22.414; U; en) Presto/2.5.25 Version/10.54
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.0.18741/886; U; id) Presto/2.4.15
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.0.18741/886; U; en) Presto/2.4.15
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.0.18741/870; U; fr) Presto/2.4.15
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.0.18741/870; U; en) Presto/2.4.15
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.0.18741/18.794; U; en) Presto/2.4.15
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.0.18635Mod.by.Handler/23.377; U; en) Presto/2.5.25 Version/10.54
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.0.18635/886; U; en) Presto/2.4.15
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.0.17443/886; U; en) Presto/2.4.15
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.0.17443/20.2477; U; en) Presto/2.5.25
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.0.17381/886; U; en) Presto/2.4.15
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.0.16823Mod.by.Handler/22.387; U; en) Presto/2.5.25 Version/10.54
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.0.16823/870; U; en) Presto/2.4.15
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.0.15650/20.2479; U; en) Presto/2.5.25
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.0.0.862 Profile/24.743; U; en) Presto/2.5.25 Version/10.54
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.0.0.423 Profile/18.684; U; en) Presto/2.4.15
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.0.0.351 Profile/22.478; U; en) Presto/2.5.25 Version/10.54
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.0/870; U; en) Presto/2.4.15
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.5.33867/35.2883; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.4.Vista/19.916; U; en) Presto/2.5.25
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.4.29476/27.1573; U; id) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.4.26736/28.2647; U; it) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.4.0.60 (Windows XP)/886; U; en) Presto/2.4.15
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.3.24214/27.1407; U; id) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.3.13337/25.657; U; ro) Presto/2.5.25 Version/10.54
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.24721/30.3316; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.23453/28.2647; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.21465/22.478; U; id) Presto/2.5.25 Version/10.54
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.21465/22.387; U; id) Presto/2.5.25 Version/10.54
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.19634/23.333; U; en) Presto/2.5.25 Version/10.54
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.18887/22.478; U; id) Presto/2.5.25 Version/10.54
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.16320/29.3594; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.16007Mod.by.Handler/23.390; U; en) Presto/2.5.25 Version/10.54
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.15410QUAIN/22.478; U; en) Presto/2.5.25 Version/10.54
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.15410Mod.by.Handler/23.334; U; en) Presto/2.5.25 Version/10.54
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.15410Mod.by.Handler/23.333; U; en) Presto/2.5.25 Version/10.54
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.15410Mod.by.Handler/22.401; U; en) Presto/2.5.25 Version/10.54
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.15410Mod.by.Handler/20.2485; U; en) Presto/2.5.25
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.15410Mod.by.Handler/18.678; U; en) Presto/2.4.15
+Opera/9.60 (J2ME/MIDP;Opera Mini/4.2.15410Mod.by.Handler/503; U; en)Presto/2.2.0
+Opera/9.50 (J2ME/MIDP; Opera Mini/4.2.15410Mod.by.Handler/20.2590; U; en)
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.15410/870; U; en) Presto/2.4.15
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.15410/24.899; U; id) Presto/2.5.25 Version/10.54
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.15410/22.394; U; en) Presto/2.5.25 Version/10.54
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.15066/886; U; en) Presto/2.4.15
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.14912mod.By.onome/22.401; U; en) Presto/2.5.25 Version/10.54
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.14912Mod.by.Handler/24.783; U; id) Presto/2.5.25 Version/10.54
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.14912Mod.by.Handler/23.377; U; id) Presto/2.5.25 Version/10.54
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.14912Mod.By.www.9jamusic.cz.cc/22.387; U; en) Presto/2.5.25 Version/10.54
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.14912/870; U; id) Presto/2.4.15
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.14912/24.746; U; id) Presto/2.5.25 Version/10.54
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.14912/23.334; U; en) Presto/2.5.25 Version/10.54
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.14912/23.333; U; en) Presto/2.5.25 Version/10.54
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.14912/22.394; U; en) Presto/2.5.25 Version/10.54
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.14885/20.2485; U; zh) Presto/2.5.25
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.14881Mod.by.Handler/24.743; U; en) Presto/2.5.25 Version/10.54
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.14881Mod.by.Handler/23.317; U; id) Presto/2.5.25 Version/10.54
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.14753/20.2485; U; zh) Presto/2.5.25
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.14409/20.2485; U; zh) Presto/2.5.25
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.14320/886; U; id) Presto/2.4.15
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.14320/22.478; U; en) Presto/2.5.25 Version/10.54
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.14320/20.2485; U; zh) Presto/2.5.25
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.13943/20.2485; U; zh) Presto/2.5.25
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.13918/22.414; U; en) Presto/2.5.25 Version/10.54
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.13400/20.2485; U; zh) Presto/2.5.25
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.13337.Mod.by.Handler/870; U; en) Presto/2.4.15
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.13337/886; U; en) Presto/2.4.15
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.13337/870; U; en) Presto/2.4.15
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.13337/19.916; U; en) Presto/2.5.25
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.13265/870; U; ro) Presto/2.4.15
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.13221/886; U; en) Presto/2.4.15
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.13221/870; U; en) Presto/2.4.15
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.13057/870; U; ja) Presto/2.4.15
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2 19.42.55/19.892; U; en) Presto/2.5.25
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.18061/27.1407; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.1.15082/870; U; en) Presto/2.4.15
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.1.15082/25.677; U; vi) Presto/2.5.25 Version/10.54
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.1.15082/20.2489; U; en) Presto/2.5.25
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.1.14287/22.387; U; id) Presto/2.5.25 Version/10.54
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.1.13907/21.529; U; en) Presto/2.5.25 Version/10.54
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.1.13573/20.2485; U; zh) Presto/2.5.25
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.1.12965/19.892; U; en) Presto/2.5.25
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.1.11321/24.871; U; en) Presto/2.5.25 Version/10.54
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.0.8462/22.414; U; en) Presto/2.5.25 Version/10.54
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.0.8462/19.916; U; en) Presto/2.5.25
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.0.10247/19.916; U; en) Presto/2.5.25
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.0.10031/22.453; U; en) Presto/2.5.25 Version/10.54
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.0/886; U; en) Presto/2.4.15
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.0/870; U; id) Presto/2.4.15
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.0/22.453; U; en) Presto/2.5.25 Version/10.54
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.0/22.401; U; en) Presto/2.5.25 Version/10.54
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.0/22.394; U; en) Presto/2.5.25 Version/10.54
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.0 (Linux; U;
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.0 (compatible; MSIE 5.0; UNIX) Opera 6.12 [en]/24.838; U; en) Presto/2.5.25 Version/10.54
+Opera/9.60 (J2ME/MIDP; Opera Mini/4.0/490; U; en) Presto/2.2.0
+Opera/9.80 (J2ME/MIDP; Opera Mini/3.1.10423/22.387; U; en) Presto/2.5.25 Version/10.54
+Opera/9.80 (J2ME/MIDP; Opera Mini/1.6.0_13/22.478; U; en) Presto/2.5.25 Version/10.54
+Opera/9.80 (J2ME/MIDP; Opera Mini/1.6.0_13/19.916; U; en) Presto/2.5.25
+Opera/9.80 (J2ME/MIDP; Opera Mini/1.0/886; U; en) Presto/2.4.15
+Opera/9.80 (J2ME/MIDP; Opera Mini/Nokia2730c-1/22.478; U; en) Presto/2.5.25 Version/10.54
+Opera/9.80 (J2ME/MIDP; Opera Mini/Mozilla/23.334; U; en) Presto/2.5.25 Version/10.54

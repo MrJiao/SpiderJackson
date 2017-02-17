@@ -1,0 +1,71 @@
+17 22:08:53 DEBUG com.jackson.executor.DBSingleExecutor 53 main execute - 插入任务成功:com.jackson.db.service.UrlService$InsertTask 当前任务数:1
+17 22:08:53 DEBUG com.jackson.executor.DBSingleExecutor$1 31 Thread-1 run - 执行任务:com.jackson.db.service.UrlService$InsertTask
+17 22:08:53 INFO  com.jackson.db.service.UrlService 94 Thread-1 insertUrl2Database - 插入url到数据库 urlSize:26
+17 22:08:53 DEBUG com.jackson.common.source.CommonSource 70 main getThreadPool - 创建 ThreadPool
+17 22:08:53 DEBUG com.jackson.common.source.CommonSource 82 main createHttpGetPool - 创建 HttpGetPool
+17 22:08:53 INFO  com.jackson.db.service.UrlService 111 Thread-2 take - queue size:1
+17 22:08:53 DEBUG com.jackson.executor.DBSingleExecutor 53 Thread-2 execute - 插入任务成功:com.jackson.db.service.UrlService$Database2QueueTask 当前任务数:1
+17 22:08:53 DEBUG com.jackson.task.CreateTaskThread 89 Thread-2 run - taskCount:1
+17 22:08:53 INFO  com.jackson.db.service.UrlService 111 Thread-2 take - queue size:0
+17 22:08:53 INFO  com.jackson.reservoir.HttpGetPool 31 pool-2-thread-1 poll - 获取HttpGet url:Url{, url='http://www.youdaili.net/Daili/guonei/list_27.html', state=0, parserClassName='com.get_proxy_demo.YouDaiLiPage1', priority=1}
+17 22:08:53 DEBUG com.jackson.executor.DBSingleExecutor$1 31 Thread-1 run - 执行任务:com.jackson.db.service.UrlService$Database2QueueTask
+17 22:08:53 INFO  com.jackson.db.service.UrlService 181 Thread-1 databaseToQueue - 从数据库获取 urls size:0
+17 22:08:53 INFO  com.jackson.db.service.UrlService 187 Thread-1 databaseToQueue - addAfter queue size:0
+17 22:08:54 DEBUG com.jackson.net.HttpClientCreater 53 pool-2-thread-1 getHttpClient - 获取httpClient
+17 22:08:54 INFO  com.jackson.task.RequestParserTask 154 pool-2-thread-1 doRequest - 请求 url:http://www.youdaili.net/Daili/guonei/list_27.html
+17 22:08:54 DEBUG com.jackson.reservoir.HttpGetPool 50 pool-2-thread-1 offer - 回收HttpGetGET http://www.youdaili.net/Daili/guonei/list_27.html HTTP/1.1,当前HttpGetPool里HttpGet的数量为:0
+17 22:08:54 DEBUG com.jackson.reservoir.ParserPool 47 pool-2-thread-1 newInstance - 创建新的parser className:com.get_proxy_demo.YouDaiLiPage1,当前parser数量为1
+17 22:08:54 DEBUG com.jackson.reservoir.ParserPool 42 pool-2-thread-1 getParser - 获取parser className:com.get_proxy_demo.YouDaiLiPage1
+17 22:08:55 DEBUG com.jackson.executor.DBSingleExecutor$1 31 Thread-1 run - 执行任务:com.jackson.db.service.UrlService$InsertTask
+17 22:08:55 DEBUG com.jackson.executor.DBSingleExecutor 53 pool-2-thread-1 execute - 插入任务成功:com.jackson.db.service.UrlService$InsertTask 当前任务数:1
+17 22:08:55 INFO  com.jackson.db.service.UrlService 94 Thread-1 insertUrl2Database - 插入url到数据库 urlSize:34
+17 22:08:55 DEBUG com.jackson.executor.DBSingleExecutor 53 pool-2-thread-1 execute - 插入任务成功:com.jackson.db.service.UrlService$CompleteTask 当前任务数:1
+17 22:08:55 INFO  com.jackson.db.service.UrlService 204 pool-2-thread-1 completeUrl - 设置完成状态 updateCompleteUrsSet size:1 url:http://www.youdaili.net/Daili/guonei/list_27.html
+17 22:08:55 INFO  com.jackson.reservoir.HttpGetPool 31 pool-2-thread-1 poll - 获取HttpGet url:Url{, url='http://www.youdaili.net/Daili/guonei/310.html', state=0, parserClassName='com.get_proxy_demo.YouDaiLiPage2', priority=2}
+17 22:08:55 DEBUG com.jackson.net.HttpClientCreater 53 pool-2-thread-1 getHttpClient - 获取httpClient
+17 22:08:55 INFO  com.jackson.task.RequestParserTask 154 pool-2-thread-1 doRequest - 请求 url:http://www.youdaili.net/Daili/guonei/310.html
+17 22:08:55 DEBUG com.jackson.task.CreateTaskThread 89 Thread-2 run - taskCount:0
+17 22:08:55 INFO  com.jackson.db.service.UrlService 111 Thread-2 take - queue size:0
+17 22:08:55 DEBUG com.jackson.executor.DBSingleExecutor 53 Thread-2 execute - 插入任务成功:com.jackson.db.service.UrlService$Database2QueueTask 当前任务数:2
+17 22:08:55 DEBUG com.jackson.executor.DBSingleExecutor$1 31 Thread-1 run - 执行任务:com.jackson.db.service.UrlService$CompleteTask
+17 22:08:55 INFO  com.jackson.db.service.UrlService 162 Thread-1 completeUrlsToDatabase - 完成的url存入数据库completeUrls size:1
+17 22:08:55 DEBUG com.jackson.executor.DBSingleExecutor$1 31 Thread-1 run - 执行任务:com.jackson.db.service.UrlService$Database2QueueTask
+17 22:08:55 INFO  com.jackson.db.service.UrlService 181 Thread-1 databaseToQueue - 从数据库获取 urls size:0
+17 22:08:55 INFO  com.jackson.db.service.UrlService 187 Thread-1 databaseToQueue - addAfter queue size:0
+17 22:08:55 DEBUG com.jackson.reservoir.HttpGetPool 50 pool-2-thread-1 offer - 回收HttpGetGET http://www.youdaili.net/Daili/guonei/310.html HTTP/1.1,当前HttpGetPool里HttpGet的数量为:0
+17 22:08:55 DEBUG com.jackson.reservoir.ParserPool 47 pool-2-thread-1 newInstance - 创建新的parser className:com.get_proxy_demo.YouDaiLiPage2,当前parser数量为2
+17 22:08:55 DEBUG com.jackson.reservoir.ParserPool 42 pool-2-thread-1 getParser - 获取parser className:com.get_proxy_demo.YouDaiLiPage2
+17 22:08:55 DEBUG com.jackson.common.source.CommonSource 70 pool-2-thread-1 getThreadPool - 创建 ThreadPool
+17 22:08:55 INFO  com.jackson.db.service.ProxyService 97 pool-2-thread-1 insert - 表total_ips 添加新Proxy size:165 insertProxysSet size165
+17 22:08:55 DEBUG com.jackson.executor.DBSingleExecutor 53 pool-2-thread-1 execute - 插入任务成功:com.jackson.db.service.ProxyService$InsertTask 当前任务数:1
+17 22:08:55 DEBUG com.jackson.executor.DBSingleExecutor$1 31 Thread-1 run - 执行任务:com.jackson.db.service.ProxyService$InsertTask
+17 22:08:55 INFO  com.jackson.db.service.ProxyService 161 Thread-1 insertProxysToDatabase - 表total_ips Proxy存入数据库 insertProxysSet size:165
+17 22:08:55 DEBUG com.jackson.executor.DBSingleExecutor 53 pool-2-thread-1 execute - 插入任务成功:com.jackson.db.service.UrlService$InsertTask 当前任务数:1
+17 22:08:55 INFO  com.get_proxy_demo.YouDaiLiPage2 32 pool-2-thread-1 responseHandle - matechIp size166 url:http://www.youdaili.net/Daili/guonei/310.html
+17 22:08:55 INFO  com.get_proxy_demo.YouDaiLiPage2 45 pool-2-thread-1 responseHandle - 成功url:http://www.youdaili.net/Daili/guonei/310.html
+17 22:08:55 DEBUG com.jackson.executor.DBSingleExecutor 53 pool-2-thread-1 execute - 插入任务成功:com.jackson.db.service.UrlService$CompleteTask 当前任务数:2
+17 22:08:55 INFO  com.jackson.db.service.UrlService 204 pool-2-thread-1 completeUrl - 设置完成状态 updateCompleteUrsSet size:1 url:http://www.youdaili.net/Daili/guonei/310.html
+17 22:08:55 INFO  com.jackson.reservoir.HttpGetPool 31 pool-2-thread-2 poll - 获取HttpGet url:Url{, url='http://www.youdaili.net/Daili/guonei/310_2.html', state=0, parserClassName='com.get_proxy_demo.YouDaiLiPage2', priority=2}
+17 22:08:55 DEBUG com.jackson.net.HttpClientCreater 53 pool-2-thread-2 getHttpClient - 获取httpClient
+17 22:08:55 DEBUG com.jackson.task.CreateTaskThread 89 Thread-2 run - taskCount:1
+17 22:08:55 INFO  com.jackson.db.service.UrlService 111 Thread-2 take - queue size:0
+17 22:08:55 DEBUG com.jackson.executor.DBSingleExecutor 53 Thread-2 execute - 插入任务成功:com.jackson.db.service.UrlService$Database2QueueTask 当前任务数:3
+17 22:08:55 INFO  com.jackson.task.RequestParserTask 154 pool-2-thread-2 doRequest - 请求 url:http://www.youdaili.net/Daili/guonei/310_2.html
+17 22:08:55 DEBUG com.jackson.reservoir.HttpGetPool 50 pool-2-thread-2 offer - 回收HttpGetGET http://www.youdaili.net/Daili/guonei/310_2.html HTTP/1.1,当前HttpGetPool里HttpGet的数量为:0
+17 22:08:55 DEBUG com.jackson.reservoir.ParserPool 42 pool-2-thread-2 getParser - 获取parser className:com.get_proxy_demo.YouDaiLiPage2
+17 22:08:55 DEBUG com.jackson.executor.DBSingleExecutor$1 31 Thread-1 run - 执行任务:com.jackson.db.service.UrlService$InsertTask
+17 22:08:55 DEBUG com.jackson.executor.DBSingleExecutor$1 31 Thread-1 run - 执行任务:com.jackson.db.service.UrlService$CompleteTask
+17 22:08:55 INFO  com.jackson.db.service.UrlService 162 Thread-1 completeUrlsToDatabase - 完成的url存入数据库completeUrls size:1
+17 22:08:55 INFO  com.jackson.db.service.ProxyService 97 pool-2-thread-2 insert - 表total_ips 添加新Proxy size:148 insertProxysSet size148
+17 22:08:55 DEBUG com.jackson.executor.DBSingleExecutor 53 pool-2-thread-2 execute - 插入任务成功:com.jackson.db.service.ProxyService$InsertTask 当前任务数:2
+17 22:08:55 INFO  com.get_proxy_demo.YouDaiLiPage2 32 pool-2-thread-2 responseHandle - matechIp size148 url:http://www.youdaili.net/Daili/guonei/310_2.html
+17 22:08:55 INFO  com.get_proxy_demo.YouDaiLiPage2 45 pool-2-thread-2 responseHandle - 成功url:http://www.youdaili.net/Daili/guonei/310_2.html
+17 22:08:55 DEBUG com.jackson.executor.DBSingleExecutor$1 31 Thread-1 run - 执行任务:com.jackson.db.service.UrlService$Database2QueueTask
+17 22:08:55 DEBUG com.jackson.executor.DBSingleExecutor 53 pool-2-thread-2 execute - 插入任务成功:com.jackson.db.service.UrlService$CompleteTask 当前任务数:2
+17 22:08:55 INFO  com.jackson.db.service.UrlService 204 pool-2-thread-2 completeUrl - 设置完成状态 updateCompleteUrsSet size:1 url:http://www.youdaili.net/Daili/guonei/310_2.html
+17 22:08:55 INFO  com.jackson.db.service.UrlService 181 Thread-1 databaseToQueue - 从数据库获取 urls size:0
+17 22:08:55 INFO  com.jackson.db.service.UrlService 187 Thread-1 databaseToQueue - addAfter queue size:0
+17 22:08:55 DEBUG com.jackson.executor.DBSingleExecutor$1 31 Thread-1 run - 执行任务:com.jackson.db.service.ProxyService$InsertTask
+17 22:08:55 INFO  com.jackson.db.service.ProxyService 161 Thread-1 insertProxysToDatabase - 表total_ips Proxy存入数据库 insertProxysSet size:148
+17 22:08:55 DEBUG com.jackson.executor.DBSingleExecutor$1 31 Thread-1 run - 执行任务:com.jackson.db.service.UrlService$CompleteTask
+17 22:08:55 INFO  com.jackson.db.service.UrlService 162 Thread-1 completeUrlsToDatabase - 完成的url存入数据库completeUrls size:1

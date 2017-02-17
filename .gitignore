@@ -2,6 +2,8 @@
 *.iml
 out/
 gen/
+logs/
+debug_log/
 idea-gitignore.jar
 resources/templates.list
 resources/gitignore/*

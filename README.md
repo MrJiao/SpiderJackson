@@ -4,6 +4,17 @@
 
 并自动实现了并发请求。开发者主要精力放到了请求成功后的数据解析。
 
+
+## 项目运行时效果图
+DEMO 爬取的是代理,既提供了例子,又让你有免费的代理用.一举两得哈哈,爬取线程数开小一点,会被屏蔽的
+![image](https://raw.githubusercontent.com/MrJiao/SpiderJackson/master/images/idea%E6%88%AA%E5%9B%BE.png)
+
+![image](https://raw.githubusercontent.com/MrJiao/SpiderJackson/master/images/mysql1.png)
+
+
+![image](https://raw.githubusercontent.com/MrJiao/SpiderJackson/master/images/proxy.png)
+
+
 ## 引入框架
 
 1. 数据库框架 mybatis 3.3.0（默认使用数据库 mysql）
@@ -31,7 +42,7 @@
 4. 简单api就可实现复杂的请求业务
 5. 模块之间独立，可以自己组装自己的controller
 
-##　接下来的开发任务
+## 接下来的开发任务
 
 1. 代理添加高匿名、国内国外、等参数
 2. 添加账号管理模块、封装模拟登陆

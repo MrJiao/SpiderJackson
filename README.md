@@ -52,7 +52,11 @@ DEMO 爬取的是代理,既提供了例子,又让你有免费的代理用.一举
 6. 优化代理取出策略，保证最好用的代理有先被取出
 
 ## 使用说明
+### 第一步
+安装mysql数据库
 
+
+### 第二部
 这是一个IDEA JAVA项目，导入成功后，修改SpiderJackson/src/config/SqlMapConfig.xml里面的配置，配置好mybatis即可。
 
     <dataSource type="POOLED">
@@ -66,6 +70,9 @@ DEMO 爬取的是代理,既提供了例子,又让你有免费的代理用.一举
 ##### 修改 your_username 为你的数据库账号 
 ##### 修改 your_password 为你的数据库密码
 
+### 第三步
+直接运行代码,获取免费代理.
+demo包里有使用例子和说明.
 ## 类简单介绍
 
 1. Url：请求封装类，内部设置请求的url地址，get/post请求，HTTP/HTTPS请求，请求参数、解析对象

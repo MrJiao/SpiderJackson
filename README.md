@@ -85,7 +85,7 @@ demo包里有使用例子和说明.
 8. UserAgentControl: 获取user-agent的管理类
 
 ## 使用例子
-更多例子可以查看demo包下的代码
+更多例子可以查看[demo](https://github.com/MrJiao/SpiderJackson/tree/master/src/com/demo)包下的代码
 
 
 ```
